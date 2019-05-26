@@ -1,5 +1,5 @@
 # NEA_SADs
-Code for the paper: Systematic variation in North American tree species abundance distributions along macroecological climatic gradients  (In Review)
+Code for the paper: Systematic variation in North American tree species abundance distributions along macroecological climatic gradients  (Global Ecol Biogeogr)
 
 This repository hosts the code associated with the following publication: 
 
