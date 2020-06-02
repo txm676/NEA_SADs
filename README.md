@@ -1,6 +1,8 @@
 # NEA_SADs
 Code for the paper: Systematic variation in North American tree species abundance distributions along macroecological climatic gradients  (Global Ecol Biogeogr)
 
+The code works with Version 2.4.3 of the Gambin package. As such, it is necessary to install this previous version prior to running the code.
+
 This repository hosts the code associated with the following publication: 
 
 Matthews TJ, Sadler JP, Kubota Y, Woodall CW, Pugh TAM. Systematic variation in North American tree species abundance distributions along macroecological climatic gradients. Global Ecol Biogeogr. 2019;00:1–11. https://doi.org/10.1111/geb.12879
